@@ -1,0 +1,7 @@
+numclubs	5
+maxsize	20
+minsize	16
+pcthubs	0.5
+pctnoise	0.0
+numrivalclubs	0
+numcommonenemies	0

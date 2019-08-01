@@ -1,0 +1,2 @@
+Prefix plugins/MakeSynthetic2/example/
+Plugin MakeSynthetic2 inputfile params.txt outputfile random.gml

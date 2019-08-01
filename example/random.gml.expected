@@ -1,0 +1,4095 @@
+graph [
+node [
+id 0
+label "A0"
+]
+node [
+id 1
+label "A1"
+]
+node [
+id 2
+label "A2"
+]
+node [
+id 3
+label "A3"
+]
+node [
+id 4
+label "A4"
+]
+node [
+id 5
+label "A5"
+]
+node [
+id 6
+label "A6"
+]
+node [
+id 7
+label "A7"
+]
+node [
+id 8
+label "A8"
+]
+node [
+id 9
+label "A9"
+]
+node [
+id 10
+label "A10"
+]
+node [
+id 11
+label "A11"
+]
+node [
+id 12
+label "A12"
+]
+node [
+id 13
+label "A13"
+]
+node [
+id 14
+label "A14"
+]
+node [
+id 15
+label "A15"
+]
+node [
+id 16
+label "A16"
+]
+node [
+id 17
+label "A17"
+]
+node [
+id 18
+label "A18"
+]
+node [
+id 19
+label "A19"
+]
+node [
+id 20
+label "A20"
+]
+node [
+id 21
+label "A21"
+]
+node [
+id 22
+label "A22"
+]
+node [
+id 23
+label "A23"
+]
+node [
+id 24
+label "A24"
+]
+node [
+id 25
+label "A25"
+]
+node [
+id 26
+label "A26"
+]
+node [
+id 27
+label "A27"
+]
+node [
+id 28
+label "A28"
+]
+node [
+id 29
+label "A29"
+]
+node [
+id 30
+label "A30"
+]
+node [
+id 31
+label "A31"
+]
+node [
+id 32
+label "A32"
+]
+node [
+id 33
+label "A33"
+]
+node [
+id 34
+label "A34"
+]
+node [
+id 35
+label "A35"
+]
+node [
+id 36
+label "A36"
+]
+node [
+id 37
+label "A37"
+]
+node [
+id 38
+label "A38"
+]
+node [
+id 39
+label "A39"
+]
+node [
+id 40
+label "A40"
+]
+node [
+id 41
+label "A41"
+]
+node [
+id 42
+label "A42"
+]
+node [
+id 43
+label "A43"
+]
+node [
+id 44
+label "A44"
+]
+node [
+id 45
+label "A45"
+]
+node [
+id 46
+label "A46"
+]
+node [
+id 47
+label "A47"
+]
+node [
+id 48
+label "A48"
+]
+node [
+id 49
+label "A49"
+]
+node [
+id 50
+label "A50"
+]
+node [
+id 51
+label "A51"
+]
+node [
+id 52
+label "A52"
+]
+node [
+id 53
+label "A53"
+]
+node [
+id 54
+label "A54"
+]
+node [
+id 55
+label "A55"
+]
+node [
+id 56
+label "A56"
+]
+node [
+id 57
+label "A57"
+]
+node [
+id 58
+label "A58"
+]
+node [
+id 59
+label "A59"
+]
+node [
+id 60
+label "A60"
+]
+node [
+id 61
+label "A61"
+]
+node [
+id 62
+label "A62"
+]
+node [
+id 63
+label "A63"
+]
+node [
+id 64
+label "A64"
+]
+node [
+id 65
+label "A65"
+]
+node [
+id 66
+label "A66"
+]
+node [
+id 67
+label "A67"
+]
+node [
+id 68
+label "A68"
+]
+node [
+id 69
+label "A69"
+]
+node [
+id 70
+label "A70"
+]
+node [
+id 71
+label "A71"
+]
+node [
+id 72
+label "A72"
+]
+node [
+id 73
+label "A73"
+]
+node [
+id 74
+label "A74"
+]
+node [
+id 75
+label "A75"
+]
+node [
+id 76
+label "A76"
+]
+node [
+id 77
+label "A77"
+]
+node [
+id 78
+label "A78"
+]
+node [
+id 79
+label "A79"
+]
+node [
+id 80
+label "A80"
+]
+node [
+id 81
+label "A81"
+]
+node [
+id 82
+label "A82"
+]
+node [
+id 83
+label "A83"
+]
+node [
+id 84
+label "A84"
+]
+node [
+id 85
+label "A85"
+]
+node [
+id 86
+label "A86"
+]
+node [
+id 87
+label "A87"
+]
+node [
+id 88
+label "A88"
+]
+node [
+id 89
+label "A89"
+]
+node [
+id 90
+label "A90"
+]
+node [
+id 91
+label "A91"
+]
+node [
+id 92
+label "A92"
+]
+node [
+id 93
+label "A93"
+]
+node [
+id 94
+label "A94"
+]
+node [
+id 95
+label "A95"
+]
+node [
+id 96
+label "A96"
+]
+edge [
+source 0
+target 1
+weight 0.9507345222231978
+]
+edge [
+source 0
+target 2
+weight 0.8310797378426444
+]
+edge [
+source 0
+target 3
+weight 0.9092953683699403
+]
+edge [
+source 0
+target 4
+weight 0.8105334633751565
+]
+edge [
+source 0
+target 5
+weight 0.7574045127294997
+]
+edge [
+source 0
+target 6
+weight 0.8293389248566729
+]
+edge [
+source 0
+target 7
+weight 0.7572516283917243
+]
+edge [
+source 0
+target 8
+weight 0.8053646072529279
+]
+edge [
+source 0
+target 9
+weight 0.7573091096926854
+]
+edge [
+source 0
+target 10
+weight 0.8119627102353854
+]
+edge [
+source 0
+target 11
+weight 0.7611744530040315
+]
+edge [
+source 0
+target 12
+weight 0.8592916675524874
+]
+edge [
+source 0
+target 13
+weight 0.8214723573464173
+]
+edge [
+source 0
+target 14
+weight 0.8048426181894885
+]
+edge [
+source 0
+target 15
+weight 0.9397043750151631
+]
+edge [
+source 0
+target 16
+weight 0.7572641312136351
+]
+edge [
+source 0
+target 17
+weight 0.7966366488105994
+]
+edge [
+source 0
+target 18
+weight 0.7624015291552251
+]
+edge [
+source 1
+target 2
+weight 0.8625907340255625
+]
+edge [
+source 1
+target 3
+weight 0.9649721399187694
+]
+edge [
+source 1
+target 4
+weight 0.8855214663044676
+]
+edge [
+source 1
+target 5
+weight 0.8546221032589915
+]
+edge [
+source 1
+target 6
+weight 0.9683159075854425
+]
+edge [
+source 1
+target 7
+weight 0.9019133448395684
+]
+edge [
+source 1
+target 8
+weight 0.9434922212558753
+]
+edge [
+source 1
+target 9
+weight 0.9423723542655422
+]
+edge [
+source 1
+target 10
+weight 0.8722831958062431
+]
+edge [
+source 1
+target 11
+weight 0.8774635971114897
+]
+edge [
+source 1
+target 12
+weight 0.8671619454533032
+]
+edge [
+source 1
+target 13
+weight 0.8521928170730364
+]
+edge [
+source 1
+target 14
+weight 0.9230127310907137
+]
+edge [
+source 1
+target 15
+weight 0.9947352341374324
+]
+edge [
+source 1
+target 16
+weight 0.8596843421465779
+]
+edge [
+source 1
+target 17
+weight 0.9311632278326695
+]
+edge [
+source 1
+target 18
+weight 0.9198847838512464
+]
+edge [
+source 2
+target 3
+weight 0.7979979093298146
+]
+edge [
+source 2
+target 4
+weight 0.7727317058180406
+]
+edge [
+source 2
+target 5
+weight 0.7914980052246127
+]
+edge [
+source 2
+target 6
+weight 0.829360694826544
+]
+edge [
+source 2
+target 7
+weight 0.8499077640848817
+]
+edge [
+source 2
+target 8
+weight 0.8063536659049431
+]
+edge [
+source 2
+target 9
+weight 0.8421590679203362
+]
+edge [
+source 2
+target 10
+weight 0.7906739107605468
+]
+edge [
+source 2
+target 11
+weight 0.8466801065156757
+]
+edge [
+source 2
+target 12
+weight 0.8079880758776199
+]
+edge [
+source 2
+target 13
+weight 0.8217818163398214
+]
+edge [
+source 2
+target 14
+weight 0.7696684661398503
+]
+edge [
+source 2
+target 15
+weight 0.8158106137981735
+]
+edge [
+source 2
+target 16
+weight 0.7831002180596167
+]
+edge [
+source 2
+target 17
+weight 0.8415195351445723
+]
+edge [
+source 2
+target 18
+weight 0.8101618170192034
+]
+edge [
+source 3
+target 4
+weight 0.8177048040113629
+]
+edge [
+source 3
+target 5
+weight 0.8309069093962332
+]
+edge [
+source 3
+target 6
+weight 0.8680262985598562
+]
+edge [
+source 3
+target 7
+weight 0.8007022960449571
+]
+edge [
+source 3
+target 8
+weight 0.7753344900008754
+]
+edge [
+source 3
+target 9
+weight 0.8701376876422378
+]
+edge [
+source 3
+target 10
+weight 0.8631542929023583
+]
+edge [
+source 3
+target 11
+weight 0.857367540655753
+]
+edge [
+source 3
+target 12
+weight 0.7581720205427451
+]
+edge [
+source 3
+target 13
+weight 0.7832418114541068
+]
+edge [
+source 3
+target 14
+weight 0.7502952244606024
+]
+edge [
+source 3
+target 15
+weight 0.8950411005430308
+]
+edge [
+source 3
+target 16
+weight 0.8200093347026787
+]
+edge [
+source 3
+target 17
+weight 0.8873052000551687
+]
+edge [
+source 3
+target 18
+weight 0.7751894844340212
+]
+edge [
+source 3
+target 92
+weight 0.7824144831375379
+]
+edge [
+source 4
+target 5
+weight 0.7727065213352753
+]
+edge [
+source 4
+target 6
+weight 0.8086499473184849
+]
+edge [
+source 4
+target 7
+weight 0.8498420327389438
+]
+edge [
+source 4
+target 8
+weight 0.7780690709491456
+]
+edge [
+source 4
+target 9
+weight 0.8615120666930053
+]
+edge [
+source 4
+target 10
+weight 0.7966144872798996
+]
+edge [
+source 4
+target 11
+weight 0.8614396103281242
+]
+edge [
+source 4
+target 12
+weight 0.8624783573645354
+]
+edge [
+source 4
+target 13
+weight 0.8049273842684134
+]
+edge [
+source 4
+target 14
+weight 0.8748243991018905
+]
+edge [
+source 4
+target 15
+weight 0.8071950549473679
+]
+edge [
+source 4
+target 16
+weight 0.825163399040195
+]
+edge [
+source 4
+target 17
+weight 0.8647743286545162
+]
+edge [
+source 4
+target 18
+weight 0.8636710402235696
+]
+edge [
+source 4
+target 89
+weight 0.9675551416157768
+]
+edge [
+source 5
+target 6
+weight 0.7597161318538905
+]
+edge [
+source 5
+target 7
+weight 0.777234782640874
+]
+edge [
+source 5
+target 8
+weight 0.792922056979511
+]
+edge [
+source 5
+target 9
+weight 0.8397473887253245
+]
+edge [
+source 5
+target 10
+weight 0.7789533854782792
+]
+edge [
+source 5
+target 11
+weight 0.7618996044669586
+]
+edge [
+source 5
+target 12
+weight 0.7892697443773339
+]
+edge [
+source 5
+target 13
+weight 0.7718575948475322
+]
+edge [
+source 5
+target 14
+weight 0.8249341831669668
+]
+edge [
+source 5
+target 15
+weight 0.8114664812349032
+]
+edge [
+source 5
+target 16
+weight 0.7554925510029564
+]
+edge [
+source 5
+target 17
+weight 0.841798611626193
+]
+edge [
+source 5
+target 18
+weight 0.7960918001124694
+]
+edge [
+source 6
+target 7
+weight 0.8680195088870724
+]
+edge [
+source 6
+target 8
+weight 0.7819882703782589
+]
+edge [
+source 6
+target 9
+weight 0.8092347495254932
+]
+edge [
+source 6
+target 10
+weight 0.7589665734729855
+]
+edge [
+source 6
+target 11
+weight 0.8003469382617574
+]
+edge [
+source 6
+target 12
+weight 0.8002519729071288
+]
+edge [
+source 6
+target 13
+weight 0.8197768764359898
+]
+edge [
+source 6
+target 14
+weight 0.8329748044768726
+]
+edge [
+source 6
+target 15
+weight 0.8374381114218091
+]
+edge [
+source 6
+target 16
+weight 0.8024249454546014
+]
+edge [
+source 6
+target 17
+weight 0.8009540429069689
+]
+edge [
+source 6
+target 18
+weight 0.8127767490718715
+]
+edge [
+source 6
+target 88
+weight 0.7831618644505742
+]
+edge [
+source 7
+target 8
+weight 0.8412230136008225
+]
+edge [
+source 7
+target 9
+weight 0.7813044761964908
+]
+edge [
+source 7
+target 10
+weight 0.8134483879915669
+]
+edge [
+source 7
+target 11
+weight 0.8684994245698772
+]
+edge [
+source 7
+target 12
+weight 0.80359191912696
+]
+edge [
+source 7
+target 13
+weight 0.8182965338667463
+]
+edge [
+source 7
+target 14
+weight 0.850238986323086
+]
+edge [
+source 7
+target 15
+weight 0.8717350248451657
+]
+edge [
+source 7
+target 16
+weight 0.8295815160548369
+]
+edge [
+source 7
+target 17
+weight 0.8503702152927981
+]
+edge [
+source 7
+target 18
+weight 0.7657550580121557
+]
+edge [
+source 8
+target 9
+weight 0.8205301976921553
+]
+edge [
+source 8
+target 10
+weight 0.8471002421844412
+]
+edge [
+source 8
+target 11
+weight 0.7583097006437538
+]
+edge [
+source 8
+target 12
+weight 0.7664047411668452
+]
+edge [
+source 8
+target 13
+weight 0.8425213061285752
+]
+edge [
+source 8
+target 14
+weight 0.8517345077486963
+]
+edge [
+source 8
+target 15
+weight 0.9396550310467041
+]
+edge [
+source 8
+target 16
+weight 0.8326559553915431
+]
+edge [
+source 8
+target 17
+weight 0.9303802313320998
+]
+edge [
+source 8
+target 18
+weight 0.8007309090277781
+]
+edge [
+source 9
+target 10
+weight 0.8338931830304975
+]
+edge [
+source 9
+target 11
+weight 0.7921377754300969
+]
+edge [
+source 9
+target 12
+weight 0.860831697582811
+]
+edge [
+source 9
+target 13
+weight 0.7800223416560983
+]
+edge [
+source 9
+target 14
+weight 0.7836624518109641
+]
+edge [
+source 9
+target 15
+weight 0.9066457993811621
+]
+edge [
+source 9
+target 16
+weight 0.7806057330969727
+]
+edge [
+source 9
+target 17
+weight 0.8467472618502176
+]
+edge [
+source 9
+target 18
+weight 0.8523052476832124
+]
+edge [
+source 10
+target 11
+weight 0.7915315606974117
+]
+edge [
+source 10
+target 12
+weight 0.789159606773181
+]
+edge [
+source 10
+target 13
+weight 0.7828101466878209
+]
+edge [
+source 10
+target 14
+weight 0.7827112193881237
+]
+edge [
+source 10
+target 15
+weight 0.842895162437423
+]
+edge [
+source 10
+target 16
+weight 0.8146292760861431
+]
+edge [
+source 10
+target 17
+weight 0.8170411578206124
+]
+edge [
+source 10
+target 18
+weight 0.8507782915876724
+]
+edge [
+source 11
+target 12
+weight 0.7801282655185124
+]
+edge [
+source 11
+target 13
+weight 0.7640089292081333
+]
+edge [
+source 11
+target 14
+weight 0.753617298436417
+]
+edge [
+source 11
+target 15
+weight 0.7547612691788276
+]
+edge [
+source 11
+target 16
+weight 0.8586616699711305
+]
+edge [
+source 11
+target 17
+weight 0.8741259233300935
+]
+edge [
+source 11
+target 18
+weight 0.8349672031314443
+]
+edge [
+source 12
+target 13
+weight 0.8512383794793077
+]
+edge [
+source 12
+target 14
+weight 0.8104148503990152
+]
+edge [
+source 12
+target 15
+weight 0.8009133555742011
+]
+edge [
+source 12
+target 16
+weight 0.8065186120170845
+]
+edge [
+source 12
+target 17
+weight 0.7580838046505695
+]
+edge [
+source 12
+target 18
+weight 0.8389939631649892
+]
+edge [
+source 13
+target 14
+weight 0.7811853156758506
+]
+edge [
+source 13
+target 15
+weight 0.8213388073677179
+]
+edge [
+source 13
+target 16
+weight 0.8429446427256618
+]
+edge [
+source 13
+target 17
+weight 0.7724414499513379
+]
+edge [
+source 13
+target 18
+weight 0.8015436327080109
+]
+edge [
+source 14
+target 15
+weight 0.8630018471909997
+]
+edge [
+source 14
+target 16
+weight 0.838949430495399
+]
+edge [
+source 14
+target 17
+weight 0.868124688093068
+]
+edge [
+source 14
+target 18
+weight 0.8062473863600249
+]
+edge [
+source 15
+target 16
+weight 0.8118816937213188
+]
+edge [
+source 15
+target 17
+weight 0.7794452370851297
+]
+edge [
+source 15
+target 18
+weight 0.8348431840698888
+]
+edge [
+source 16
+target 17
+weight 0.8531085545605479
+]
+edge [
+source 16
+target 18
+weight 0.8542201642155868
+]
+edge [
+source 17
+target 18
+weight 0.773773452643366
+]
+edge [
+source 19
+target 20
+weight 0.8069015740485495
+]
+edge [
+source 19
+target 21
+weight 0.9272567453745783
+]
+edge [
+source 19
+target 22
+weight 0.8598746873607734
+]
+edge [
+source 19
+target 23
+weight 0.7659301627725169
+]
+edge [
+source 19
+target 24
+weight 0.8879494620334918
+]
+edge [
+source 19
+target 25
+weight 0.7931240376906538
+]
+edge [
+source 19
+target 26
+weight 0.7729897811308936
+]
+edge [
+source 19
+target 27
+weight 0.8397684224733568
+]
+edge [
+source 19
+target 28
+weight 0.815652909724854
+]
+edge [
+source 19
+target 29
+weight 0.8870989413710845
+]
+edge [
+source 19
+target 30
+weight 0.9012314341350128
+]
+edge [
+source 19
+target 31
+weight 0.8078748885644036
+]
+edge [
+source 19
+target 32
+weight 0.8283216186630269
+]
+edge [
+source 19
+target 33
+weight 0.8342732548862812
+]
+edge [
+source 19
+target 34
+weight 0.8448467568444192
+]
+edge [
+source 20
+target 21
+weight 0.8568947973880009
+]
+edge [
+source 20
+target 22
+weight 0.814051272778997
+]
+edge [
+source 20
+target 23
+weight 0.797711184400372
+]
+edge [
+source 20
+target 24
+weight 0.789733194858102
+]
+edge [
+source 20
+target 25
+weight 0.8493825713357676
+]
+edge [
+source 20
+target 26
+weight 0.8315499398998425
+]
+edge [
+source 20
+target 27
+weight 0.8222469354087263
+]
+edge [
+source 20
+target 28
+weight 0.8447420453787445
+]
+edge [
+source 20
+target 29
+weight 0.8145689740875836
+]
+edge [
+source 20
+target 30
+weight 0.7575790612667623
+]
+edge [
+source 20
+target 31
+weight 0.7743637840234984
+]
+edge [
+source 20
+target 32
+weight 0.835838690669565
+]
+edge [
+source 20
+target 33
+weight 0.7870055170164956
+]
+edge [
+source 20
+target 34
+weight 0.8504404727472608
+]
+edge [
+source 21
+target 22
+weight 0.9736572502811617
+]
+edge [
+source 21
+target 23
+weight 0.8594616528354222
+]
+edge [
+source 21
+target 24
+weight 0.8953643580686708
+]
+edge [
+source 21
+target 25
+weight 0.9775267545378645
+]
+edge [
+source 21
+target 26
+weight 0.8899681366039277
+]
+edge [
+source 21
+target 27
+weight 0.9483222621681342
+]
+edge [
+source 21
+target 28
+weight 0.8800048334003105
+]
+edge [
+source 21
+target 29
+weight 0.9814832086080624
+]
+edge [
+source 21
+target 30
+weight 0.9498117320455233
+]
+edge [
+source 21
+target 31
+weight 0.991221332745368
+]
+edge [
+source 21
+target 32
+weight 0.8605882503156888
+]
+edge [
+source 21
+target 33
+weight 0.9000265119341407
+]
+edge [
+source 21
+target 34
+weight 0.9565019977906647
+]
+edge [
+source 22
+target 23
+weight 0.8254248033136274
+]
+edge [
+source 22
+target 24
+weight 0.8052074569870733
+]
+edge [
+source 22
+target 25
+weight 0.8602151445183894
+]
+edge [
+source 22
+target 26
+weight 0.7573409879595729
+]
+edge [
+source 22
+target 27
+weight 0.8388633751871054
+]
+edge [
+source 22
+target 28
+weight 0.7604235167156559
+]
+edge [
+source 22
+target 29
+weight 0.8155682648112391
+]
+edge [
+source 22
+target 30
+weight 0.935683346513458
+]
+edge [
+source 22
+target 31
+weight 0.7830775650753341
+]
+edge [
+source 22
+target 32
+weight 0.8248591053401483
+]
+edge [
+source 22
+target 33
+weight 0.847635590546321
+]
+edge [
+source 22
+target 34
+weight 0.8931198707162072
+]
+edge [
+source 23
+target 24
+weight 0.8369640080265522
+]
+edge [
+source 23
+target 25
+weight 0.8446029057343658
+]
+edge [
+source 23
+target 26
+weight 0.7890349769772961
+]
+edge [
+source 23
+target 27
+weight 0.7906553229778803
+]
+edge [
+source 23
+target 28
+weight 0.7690517382994754
+]
+edge [
+source 23
+target 29
+weight 0.8199924613288012
+]
+edge [
+source 23
+target 30
+weight 0.7732355038728207
+]
+edge [
+source 23
+target 31
+weight 0.7715036888266634
+]
+edge [
+source 23
+target 32
+weight 0.8583771409134237
+]
+edge [
+source 23
+target 33
+weight 0.8179123819409858
+]
+edge [
+source 23
+target 34
+weight 0.8299778330150896
+]
+edge [
+source 24
+target 25
+weight 0.822951914488297
+]
+edge [
+source 24
+target 26
+weight 0.7685458372441447
+]
+edge [
+source 24
+target 27
+weight 0.8823080363958373
+]
+edge [
+source 24
+target 28
+weight 0.8346651802837952
+]
+edge [
+source 24
+target 29
+weight 0.7571968899713873
+]
+edge [
+source 24
+target 30
+weight 0.8828613036183057
+]
+edge [
+source 24
+target 31
+weight 0.8180374572162817
+]
+edge [
+source 24
+target 32
+weight 0.8161052033737431
+]
+edge [
+source 24
+target 33
+weight 0.8040453506430048
+]
+edge [
+source 24
+target 34
+weight 0.8076593862801774
+]
+edge [
+source 25
+target 26
+weight 0.8589522486072021
+]
+edge [
+source 25
+target 27
+weight 0.796441147654835
+]
+edge [
+source 25
+target 28
+weight 0.7511369066692911
+]
+edge [
+source 25
+target 29
+weight 0.8211588469500033
+]
+edge [
+source 25
+target 30
+weight 0.9468890054108511
+]
+edge [
+source 25
+target 31
+weight 0.777410951396238
+]
+edge [
+source 25
+target 32
+weight 0.8163425085072007
+]
+edge [
+source 25
+target 33
+weight 0.8797844856843497
+]
+edge [
+source 25
+target 34
+weight 0.8602697310081292
+]
+edge [
+source 26
+target 27
+weight 0.8330802189655229
+]
+edge [
+source 26
+target 28
+weight 0.819838122563272
+]
+edge [
+source 26
+target 29
+weight 0.7951028866509299
+]
+edge [
+source 26
+target 30
+weight 0.8007881623438592
+]
+edge [
+source 26
+target 31
+weight 0.8796954509660974
+]
+edge [
+source 26
+target 32
+weight 0.8287546559444616
+]
+edge [
+source 26
+target 33
+weight 0.8399552265034125
+]
+edge [
+source 26
+target 34
+weight 0.8139469512000468
+]
+edge [
+source 27
+target 28
+weight 0.8684307805831346
+]
+edge [
+source 27
+target 29
+weight 0.9238961083123876
+]
+edge [
+source 27
+target 30
+weight 0.9418071547121271
+]
+edge [
+source 27
+target 31
+weight 0.8577997007923338
+]
+edge [
+source 27
+target 32
+weight 0.7951874570523865
+]
+edge [
+source 27
+target 33
+weight 0.7787633071309015
+]
+edge [
+source 27
+target 34
+weight 0.8042219581036011
+]
+edge [
+source 28
+target 29
+weight 0.8628054749756807
+]
+edge [
+source 28
+target 30
+weight 0.7726529027124077
+]
+edge [
+source 28
+target 31
+weight 0.872979282861435
+]
+edge [
+source 28
+target 32
+weight 0.814844317851123
+]
+edge [
+source 28
+target 33
+weight 0.8601217166623795
+]
+edge [
+source 28
+target 34
+weight 0.8189182819239023
+]
+edge [
+source 29
+target 30
+weight 0.9008100907743924
+]
+edge [
+source 29
+target 31
+weight 0.8859286468413892
+]
+edge [
+source 29
+target 32
+weight 0.8415752116041912
+]
+edge [
+source 29
+target 33
+weight 0.8271637768241822
+]
+edge [
+source 29
+target 34
+weight 0.8995503778469283
+]
+edge [
+source 30
+target 31
+weight 0.9105499225642352
+]
+edge [
+source 30
+target 32
+weight 0.7912526843774644
+]
+edge [
+source 30
+target 33
+weight 0.7653902932136356
+]
+edge [
+source 30
+target 34
+weight 0.8848734150644518
+]
+edge [
+source 31
+target 32
+weight 0.8440308939612893
+]
+edge [
+source 31
+target 33
+weight 0.8751301002382282
+]
+edge [
+source 31
+target 34
+weight 0.7762345368188367
+]
+edge [
+source 31
+target 94
+weight 0.9032382926098157
+]
+edge [
+source 32
+target 33
+weight 0.8367471386965725
+]
+edge [
+source 32
+target 34
+weight 0.8039787190940432
+]
+edge [
+source 33
+target 34
+weight 0.831967751444475
+]
+edge [
+source 33
+target 87
+weight 0.9687746589357492
+]
+edge [
+source 34
+target 90
+weight 0.8104323029067417
+]
+edge [
+source 35
+target 36
+weight 0.7646914550271063
+]
+edge [
+source 35
+target 37
+weight 0.8462579023723369
+]
+edge [
+source 35
+target 38
+weight 0.7765972471401411
+]
+edge [
+source 35
+target 39
+weight 0.8373595029367913
+]
+edge [
+source 35
+target 40
+weight 0.7848952614162028
+]
+edge [
+source 35
+target 41
+weight 0.8696404540209473
+]
+edge [
+source 35
+target 42
+weight 0.8329848938781182
+]
+edge [
+source 35
+target 43
+weight 0.7943958728570316
+]
+edge [
+source 35
+target 44
+weight 0.8185427192029446
+]
+edge [
+source 35
+target 45
+weight 0.7735559323433775
+]
+edge [
+source 35
+target 46
+weight 0.8091471822047482
+]
+edge [
+source 35
+target 47
+weight 0.8750668682763448
+]
+edge [
+source 35
+target 48
+weight 0.8664540168024758
+]
+edge [
+source 35
+target 49
+weight 0.8485048148796533
+]
+edge [
+source 35
+target 50
+weight 0.7899642483348215
+]
+edge [
+source 35
+target 93
+weight 0.9982405345998818
+]
+edge [
+source 36
+target 37
+weight 0.7992076152315785
+]
+edge [
+source 36
+target 38
+weight 0.8084171700747205
+]
+edge [
+source 36
+target 39
+weight 0.8100824175808679
+]
+edge [
+source 36
+target 40
+weight 0.8529861509758806
+]
+edge [
+source 36
+target 41
+weight 0.7595691873091419
+]
+edge [
+source 36
+target 42
+weight 0.7720039855482085
+]
+edge [
+source 36
+target 43
+weight 0.8177196178821354
+]
+edge [
+source 36
+target 44
+weight 0.7874302506543579
+]
+edge [
+source 36
+target 45
+weight 0.7920952052753629
+]
+edge [
+source 36
+target 46
+weight 0.8274377140883602
+]
+edge [
+source 36
+target 47
+weight 0.8614350969950055
+]
+edge [
+source 36
+target 48
+weight 0.7722418830740045
+]
+edge [
+source 36
+target 49
+weight 0.7531153870531841
+]
+edge [
+source 36
+target 50
+weight 0.8581845997992036
+]
+edge [
+source 37
+target 38
+weight 0.7851743347286695
+]
+edge [
+source 37
+target 39
+weight 0.7631933988551768
+]
+edge [
+source 37
+target 40
+weight 0.7557956111981062
+]
+edge [
+source 37
+target 41
+weight 0.8532617298962192
+]
+edge [
+source 37
+target 42
+weight 0.7994517820187468
+]
+edge [
+source 37
+target 43
+weight 0.809317941275291
+]
+edge [
+source 37
+target 44
+weight 0.9209423709766318
+]
+edge [
+source 37
+target 45
+weight 0.9062848920004345
+]
+edge [
+source 37
+target 46
+weight 0.8661057590089608
+]
+edge [
+source 37
+target 47
+weight 0.9244872501090204
+]
+edge [
+source 37
+target 48
+weight 0.9074806130731409
+]
+edge [
+source 37
+target 49
+weight 0.7676290327939328
+]
+edge [
+source 37
+target 50
+weight 0.8868699893367031
+]
+edge [
+source 38
+target 39
+weight 0.7509851872448167
+]
+edge [
+source 38
+target 40
+weight 0.8120877017439458
+]
+edge [
+source 38
+target 41
+weight 0.8525585301021292
+]
+edge [
+source 38
+target 42
+weight 0.8512674945489267
+]
+edge [
+source 38
+target 43
+weight 0.8283342414209599
+]
+edge [
+source 38
+target 44
+weight 0.8530638632273805
+]
+edge [
+source 38
+target 45
+weight 0.8178229184039921
+]
+edge [
+source 38
+target 46
+weight 0.7673718809861595
+]
+edge [
+source 38
+target 47
+weight 0.8612982551276649
+]
+edge [
+source 38
+target 48
+weight 0.8524792298511932
+]
+edge [
+source 38
+target 49
+weight 0.7706015454151447
+]
+edge [
+source 38
+target 50
+weight 0.8004123536945135
+]
+edge [
+source 39
+target 40
+weight 0.796313924045651
+]
+edge [
+source 39
+target 41
+weight 0.8163757613309772
+]
+edge [
+source 39
+target 42
+weight 0.7892350650888181
+]
+edge [
+source 39
+target 43
+weight 0.7855470969431619
+]
+edge [
+source 39
+target 44
+weight 0.8675711545203662
+]
+edge [
+source 39
+target 45
+weight 0.8018181013416821
+]
+edge [
+source 39
+target 46
+weight 0.8406748200023751
+]
+edge [
+source 39
+target 47
+weight 0.8822641594084863
+]
+edge [
+source 39
+target 48
+weight 0.8152788986770478
+]
+edge [
+source 39
+target 49
+weight 0.7762628588641414
+]
+edge [
+source 39
+target 50
+weight 0.7878544206496161
+]
+edge [
+source 40
+target 41
+weight 0.850967546656084
+]
+edge [
+source 40
+target 42
+weight 0.8440685643659779
+]
+edge [
+source 40
+target 43
+weight 0.7664044054202851
+]
+edge [
+source 40
+target 44
+weight 0.7742021437457264
+]
+edge [
+source 40
+target 45
+weight 0.8497974678338656
+]
+edge [
+source 40
+target 46
+weight 0.8458995285090585
+]
+edge [
+source 40
+target 47
+weight 0.8540692999258344
+]
+edge [
+source 40
+target 48
+weight 0.7868246803073566
+]
+edge [
+source 40
+target 49
+weight 0.8065980917370478
+]
+edge [
+source 40
+target 50
+weight 0.7947599555329797
+]
+edge [
+source 41
+target 42
+weight 0.8018165883302171
+]
+edge [
+source 41
+target 43
+weight 0.8335456075373564
+]
+edge [
+source 41
+target 44
+weight 0.8684945818502707
+]
+edge [
+source 41
+target 45
+weight 0.8591198243281085
+]
+edge [
+source 41
+target 46
+weight 0.8590042234361484
+]
+edge [
+source 41
+target 47
+weight 0.9019346283051892
+]
+edge [
+source 41
+target 48
+weight 0.7607592409773648
+]
+edge [
+source 41
+target 49
+weight 0.775913862458334
+]
+edge [
+source 41
+target 50
+weight 0.84098960167632
+]
+edge [
+source 42
+target 43
+weight 0.8332435157471062
+]
+edge [
+source 42
+target 44
+weight 0.8066198222821538
+]
+edge [
+source 42
+target 45
+weight 0.8409168373855729
+]
+edge [
+source 42
+target 46
+weight 0.861578025418077
+]
+edge [
+source 42
+target 47
+weight 0.8666333369429406
+]
+edge [
+source 42
+target 48
+weight 0.8307677869416936
+]
+edge [
+source 42
+target 49
+weight 0.8382598070783744
+]
+edge [
+source 42
+target 50
+weight 0.7881711579975981
+]
+edge [
+source 42
+target 95
+weight 0.828417904764442
+]
+edge [
+source 43
+target 44
+weight 0.8966960278056143
+]
+edge [
+source 43
+target 45
+weight 0.8371494393431045
+]
+edge [
+source 43
+target 46
+weight 0.8808675824289607
+]
+edge [
+source 43
+target 47
+weight 0.9294524838863623
+]
+edge [
+source 43
+target 48
+weight 0.8724356729540697
+]
+edge [
+source 43
+target 49
+weight 0.7820995792010611
+]
+edge [
+source 43
+target 50
+weight 0.8583907374518587
+]
+edge [
+source 43
+target 94
+weight 0.9323003709759407
+]
+edge [
+source 44
+target 45
+weight 0.8844436092891531
+]
+edge [
+source 44
+target 46
+weight 0.8313918178502113
+]
+edge [
+source 44
+target 47
+weight 0.9505752723351784
+]
+edge [
+source 44
+target 48
+weight 0.778469007306542
+]
+edge [
+source 44
+target 49
+weight 0.7898090108490059
+]
+edge [
+source 44
+target 50
+weight 0.7749218598107108
+]
+edge [
+source 45
+target 46
+weight 0.7722455036552239
+]
+edge [
+source 45
+target 47
+weight 0.918121252625722
+]
+edge [
+source 45
+target 48
+weight 0.8006685374732803
+]
+edge [
+source 45
+target 49
+weight 0.8017953573440854
+]
+edge [
+source 45
+target 50
+weight 0.862771547932406
+]
+edge [
+source 46
+target 47
+weight 0.9124376162254628
+]
+edge [
+source 46
+target 48
+weight 0.8476392176830706
+]
+edge [
+source 46
+target 49
+weight 0.7783130402311821
+]
+edge [
+source 46
+target 50
+weight 0.8790511421957422
+]
+edge [
+source 46
+target 96
+weight 0.9331441732218569
+]
+edge [
+source 47
+target 48
+weight 0.9493579534514015
+]
+edge [
+source 47
+target 49
+weight 0.8560307080045451
+]
+edge [
+source 47
+target 50
+weight 0.8907506653903839
+]
+edge [
+source 47
+target 88
+weight 0.9844462920334323
+]
+edge [
+source 48
+target 49
+weight 0.8506517360380871
+]
+edge [
+source 48
+target 50
+weight 0.8710199349444878
+]
+edge [
+source 48
+target 90
+weight 0.7630835323483682
+]
+edge [
+source 49
+target 50
+weight 0.8000466645496522
+]
+edge [
+source 51
+target 52
+weight 0.8574008244588144
+]
+edge [
+source 51
+target 53
+weight 0.787703352838446
+]
+edge [
+source 51
+target 54
+weight 0.8340770487516146
+]
+edge [
+source 51
+target 55
+weight 0.7863683504276822
+]
+edge [
+source 51
+target 56
+weight 0.7880716949556578
+]
+edge [
+source 51
+target 57
+weight 0.7601063722479345
+]
+edge [
+source 51
+target 58
+weight 0.9336612142510787
+]
+edge [
+source 51
+target 59
+weight 0.8898204600631375
+]
+edge [
+source 51
+target 60
+weight 0.9932077983553592
+]
+edge [
+source 51
+target 61
+weight 0.9305803914553149
+]
+edge [
+source 51
+target 62
+weight 0.8457875372293239
+]
+edge [
+source 51
+target 63
+weight 0.7822485687955674
+]
+edge [
+source 51
+target 64
+weight 0.8415160154775935
+]
+edge [
+source 51
+target 65
+weight 0.7861528663437085
+]
+edge [
+source 51
+target 66
+weight 0.8717043714955051
+]
+edge [
+source 52
+target 53
+weight 0.7680064304464883
+]
+edge [
+source 52
+target 54
+weight 0.7725120077787514
+]
+edge [
+source 52
+target 55
+weight 0.8392288795035305
+]
+edge [
+source 52
+target 56
+weight 0.8261405268909187
+]
+edge [
+source 52
+target 57
+weight 0.8337140767711897
+]
+edge [
+source 52
+target 58
+weight 0.8138623724851459
+]
+edge [
+source 52
+target 59
+weight 0.7926561447980568
+]
+edge [
+source 52
+target 60
+weight 0.8731827100133565
+]
+edge [
+source 52
+target 61
+weight 0.7735658741698532
+]
+edge [
+source 52
+target 62
+weight 0.777549494601566
+]
+edge [
+source 52
+target 63
+weight 0.8181644294306979
+]
+edge [
+source 52
+target 64
+weight 0.7521749429956894
+]
+edge [
+source 52
+target 65
+weight 0.7947363891908094
+]
+edge [
+source 52
+target 66
+weight 0.8042333774397211
+]
+edge [
+source 53
+target 54
+weight 0.8224536912143221
+]
+edge [
+source 53
+target 55
+weight 0.7517483485456019
+]
+edge [
+source 53
+target 56
+weight 0.8143824964231142
+]
+edge [
+source 53
+target 57
+weight 0.8137878158793275
+]
+edge [
+source 53
+target 58
+weight 0.9597985291856574
+]
+edge [
+source 53
+target 59
+weight 0.8611438903781193
+]
+edge [
+source 53
+target 60
+weight 0.9750833941226847
+]
+edge [
+source 53
+target 61
+weight 0.8627472080733308
+]
+edge [
+source 53
+target 62
+weight 0.8791720850571995
+]
+edge [
+source 53
+target 63
+weight 0.9217784228742216
+]
+edge [
+source 53
+target 64
+weight 0.9256514832498528
+]
+edge [
+source 53
+target 65
+weight 0.8435273912366785
+]
+edge [
+source 53
+target 66
+weight 0.8163371760533984
+]
+edge [
+source 53
+target 95
+weight 0.8012682175145447
+]
+edge [
+source 54
+target 55
+weight 0.8127194488460455
+]
+edge [
+source 54
+target 56
+weight 0.7521433321042348
+]
+edge [
+source 54
+target 57
+weight 0.8241210051108236
+]
+edge [
+source 54
+target 58
+weight 0.763101706873598
+]
+edge [
+source 54
+target 59
+weight 0.8529204956898276
+]
+edge [
+source 54
+target 60
+weight 0.8561594209407711
+]
+edge [
+source 54
+target 61
+weight 0.8107211848608191
+]
+edge [
+source 54
+target 62
+weight 0.8306007812442738
+]
+edge [
+source 54
+target 63
+weight 0.791956796135681
+]
+edge [
+source 54
+target 64
+weight 0.7722276596779589
+]
+edge [
+source 54
+target 65
+weight 0.7957880162127791
+]
+edge [
+source 54
+target 66
+weight 0.7618392252309565
+]
+edge [
+source 54
+target 91
+weight 0.7897327988831163
+]
+edge [
+source 54
+target 93
+weight 0.77032200205954
+]
+edge [
+source 55
+target 56
+weight 0.8128990872069957
+]
+edge [
+source 55
+target 57
+weight 0.8795873452607952
+]
+edge [
+source 55
+target 58
+weight 0.8462690543211313
+]
+edge [
+source 55
+target 59
+weight 0.894111002517303
+]
+edge [
+source 55
+target 60
+weight 0.9079275292503742
+]
+edge [
+source 55
+target 61
+weight 0.8638571019408914
+]
+edge [
+source 55
+target 62
+weight 0.8742658657681751
+]
+edge [
+source 55
+target 63
+weight 0.868088385754731
+]
+edge [
+source 55
+target 64
+weight 0.7862549816299617
+]
+edge [
+source 55
+target 65
+weight 0.7599919745979938
+]
+edge [
+source 55
+target 66
+weight 0.8100013469248409
+]
+edge [
+source 56
+target 57
+weight 0.7692111594237724
+]
+edge [
+source 56
+target 58
+weight 0.8528721528437203
+]
+edge [
+source 56
+target 59
+weight 0.7543854092505183
+]
+edge [
+source 56
+target 60
+weight 0.9024388452945539
+]
+edge [
+source 56
+target 61
+weight 0.827502103396412
+]
+edge [
+source 56
+target 62
+weight 0.8720395277830233
+]
+edge [
+source 56
+target 63
+weight 0.8612810329292511
+]
+edge [
+source 56
+target 64
+weight 0.752695831453172
+]
+edge [
+source 56
+target 65
+weight 0.7568877667899782
+]
+edge [
+source 56
+target 66
+weight 0.8943431192141915
+]
+edge [
+source 57
+target 58
+weight 0.7546013449863292
+]
+edge [
+source 57
+target 59
+weight 0.8640731571964899
+]
+edge [
+source 57
+target 60
+weight 0.9012561689125681
+]
+edge [
+source 57
+target 61
+weight 0.8835704422238608
+]
+edge [
+source 57
+target 62
+weight 0.7848947564738801
+]
+edge [
+source 57
+target 63
+weight 0.844179255931292
+]
+edge [
+source 57
+target 64
+weight 0.8371382134377496
+]
+edge [
+source 57
+target 65
+weight 0.8850716080429217
+]
+edge [
+source 57
+target 66
+weight 0.7868149710471686
+]
+edge [
+source 58
+target 59
+weight 0.8286633860525399
+]
+edge [
+source 58
+target 60
+weight 0.9724694585071345
+]
+edge [
+source 58
+target 61
+weight 0.8072607356581286
+]
+edge [
+source 58
+target 62
+weight 0.8212246407911856
+]
+edge [
+source 58
+target 63
+weight 0.9149720995142439
+]
+edge [
+source 58
+target 64
+weight 0.8661818344435689
+]
+edge [
+source 58
+target 65
+weight 0.7515822907006121
+]
+edge [
+source 58
+target 66
+weight 0.8134393987152797
+]
+edge [
+source 59
+target 60
+weight 0.9213902362197592
+]
+edge [
+source 59
+target 61
+weight 0.8621735526478143
+]
+edge [
+source 59
+target 62
+weight 0.9128947833881224
+]
+edge [
+source 59
+target 63
+weight 0.8519345274827096
+]
+edge [
+source 59
+target 64
+weight 0.9064412598390179
+]
+edge [
+source 59
+target 65
+weight 0.8662425456146605
+]
+edge [
+source 59
+target 66
+weight 0.861835291883767
+]
+edge [
+source 60
+target 61
+weight 0.9674335434283605
+]
+edge [
+source 60
+target 62
+weight 0.9206260187963268
+]
+edge [
+source 60
+target 63
+weight 0.9726016010287213
+]
+edge [
+source 60
+target 64
+weight 0.9822351397983409
+]
+edge [
+source 60
+target 65
+weight 0.9159394596519459
+]
+edge [
+source 60
+target 66
+weight 0.9671595396688721
+]
+edge [
+source 61
+target 62
+weight 0.8573134645592153
+]
+edge [
+source 61
+target 63
+weight 0.8817871876200706
+]
+edge [
+source 61
+target 64
+weight 0.950146820821301
+]
+edge [
+source 61
+target 65
+weight 0.8204887696388915
+]
+edge [
+source 61
+target 66
+weight 0.8444104697043948
+]
+edge [
+source 62
+target 63
+weight 0.8078514380801814
+]
+edge [
+source 62
+target 64
+weight 0.7989398218706703
+]
+edge [
+source 62
+target 65
+weight 0.7656054942566135
+]
+edge [
+source 62
+target 66
+weight 0.9016293644172038
+]
+edge [
+source 63
+target 64
+weight 0.9354941112257052
+]
+edge [
+source 63
+target 65
+weight 0.8718111579137459
+]
+edge [
+source 63
+target 66
+weight 0.8737488791568924
+]
+edge [
+source 64
+target 65
+weight 0.8056574065450948
+]
+edge [
+source 64
+target 66
+weight 0.8645454250798574
+]
+edge [
+source 65
+target 66
+weight 0.8498262844854666
+]
+edge [
+source 66
+target 96
+weight 0.814192946898803
+]
+edge [
+source 67
+target 68
+weight 0.8280746431879391
+]
+edge [
+source 67
+target 69
+weight 0.8022004078901221
+]
+edge [
+source 67
+target 70
+weight 0.8138351026447378
+]
+edge [
+source 67
+target 71
+weight 0.7715415025519153
+]
+edge [
+source 67
+target 72
+weight 0.7653947522577762
+]
+edge [
+source 67
+target 73
+weight 0.8800530000239477
+]
+edge [
+source 67
+target 74
+weight 0.7978112721152623
+]
+edge [
+source 67
+target 75
+weight 0.8348268199531512
+]
+edge [
+source 67
+target 76
+weight 0.8905461430512764
+]
+edge [
+source 67
+target 77
+weight 0.777443972571544
+]
+edge [
+source 67
+target 78
+weight 0.824732844798929
+]
+edge [
+source 67
+target 79
+weight 0.8072201904007527
+]
+edge [
+source 67
+target 80
+weight 0.7958957300034114
+]
+edge [
+source 67
+target 81
+weight 0.8943518373463761
+]
+edge [
+source 67
+target 82
+weight 0.8133782544031021
+]
+edge [
+source 67
+target 83
+weight 0.8420344450483846
+]
+edge [
+source 67
+target 84
+weight 0.8828762324021718
+]
+edge [
+source 67
+target 85
+weight 0.8290594707584744
+]
+edge [
+source 67
+target 86
+weight 0.7976867623103081
+]
+edge [
+source 68
+target 69
+weight 0.8361030851204581
+]
+edge [
+source 68
+target 70
+weight 0.8227963806832324
+]
+edge [
+source 68
+target 71
+weight 0.7809046843000991
+]
+edge [
+source 68
+target 72
+weight 0.8532012640707474
+]
+edge [
+source 68
+target 73
+weight 0.7590533729532033
+]
+edge [
+source 68
+target 74
+weight 0.8581604532817254
+]
+edge [
+source 68
+target 75
+weight 0.8034398805358032
+]
+edge [
+source 68
+target 76
+weight 0.8224838151579574
+]
+edge [
+source 68
+target 77
+weight 0.7512464453342066
+]
+edge [
+source 68
+target 78
+weight 0.7543092670867141
+]
+edge [
+source 68
+target 79
+weight 0.8223570251040487
+]
+edge [
+source 68
+target 80
+weight 0.762796944180098
+]
+edge [
+source 68
+target 81
+weight 0.8685815011460358
+]
+edge [
+source 68
+target 82
+weight 0.8287599693231187
+]
+edge [
+source 68
+target 83
+weight 0.8331177490211568
+]
+edge [
+source 68
+target 84
+weight 0.7712379661477314
+]
+edge [
+source 68
+target 85
+weight 0.8179944258467579
+]
+edge [
+source 68
+target 86
+weight 0.7816425757542204
+]
+edge [
+source 69
+target 70
+weight 0.8561839032674878
+]
+edge [
+source 69
+target 71
+weight 0.8389421822839586
+]
+edge [
+source 69
+target 72
+weight 0.8548698829290337
+]
+edge [
+source 69
+target 73
+weight 0.7896863836816775
+]
+edge [
+source 69
+target 74
+weight 0.8698558751283595
+]
+edge [
+source 69
+target 75
+weight 0.7541279120585888
+]
+edge [
+source 69
+target 76
+weight 0.82323123161418
+]
+edge [
+source 69
+target 77
+weight 0.7931351648054327
+]
+edge [
+source 69
+target 78
+weight 0.8193569400366749
+]
+edge [
+source 69
+target 79
+weight 0.8444609147919508
+]
+edge [
+source 69
+target 80
+weight 0.7612352432102811
+]
+edge [
+source 69
+target 81
+weight 0.8778432791117483
+]
+edge [
+source 69
+target 82
+weight 0.8452216758710928
+]
+edge [
+source 69
+target 83
+weight 0.8696224714473779
+]
+edge [
+source 69
+target 84
+weight 0.8492018510131507
+]
+edge [
+source 69
+target 85
+weight 0.7520726702567665
+]
+edge [
+source 69
+target 86
+weight 0.7607553860828344
+]
+edge [
+source 70
+target 71
+weight 0.8493306997199065
+]
+edge [
+source 70
+target 72
+weight 0.8422284948992156
+]
+edge [
+source 70
+target 73
+weight 0.8071401062374016
+]
+edge [
+source 70
+target 74
+weight 0.862573722268317
+]
+edge [
+source 70
+target 75
+weight 0.8849691901650507
+]
+edge [
+source 70
+target 76
+weight 0.8508478692164235
+]
+edge [
+source 70
+target 77
+weight 0.7529856866099998
+]
+edge [
+source 70
+target 78
+weight 0.819178215073675
+]
+edge [
+source 70
+target 79
+weight 0.7860755539318175
+]
+edge [
+source 70
+target 80
+weight 0.8076331607738939
+]
+edge [
+source 70
+target 81
+weight 0.9154089690399122
+]
+edge [
+source 70
+target 82
+weight 0.7913588905398157
+]
+edge [
+source 70
+target 83
+weight 0.8142209583225226
+]
+edge [
+source 70
+target 84
+weight 0.8476412002572462
+]
+edge [
+source 70
+target 85
+weight 0.7538495219035886
+]
+edge [
+source 70
+target 86
+weight 0.7721070949316314
+]
+edge [
+source 70
+target 92
+weight 0.7866432666476173
+]
+edge [
+source 71
+target 72
+weight 0.7922535589018455
+]
+edge [
+source 71
+target 73
+weight 0.837809718484282
+]
+edge [
+source 71
+target 74
+weight 0.7613710508496991
+]
+edge [
+source 71
+target 75
+weight 0.7813958320031559
+]
+edge [
+source 71
+target 76
+weight 0.7686943141505789
+]
+edge [
+source 71
+target 77
+weight 0.8229406344669901
+]
+edge [
+source 71
+target 78
+weight 0.8160620507090314
+]
+edge [
+source 71
+target 79
+weight 0.8082218120004568
+]
+edge [
+source 71
+target 80
+weight 0.7596948792407148
+]
+edge [
+source 71
+target 81
+weight 0.8679201110516818
+]
+edge [
+source 71
+target 82
+weight 0.843070226867674
+]
+edge [
+source 71
+target 83
+weight 0.8385537543622997
+]
+edge [
+source 71
+target 84
+weight 0.8294965009422528
+]
+edge [
+source 71
+target 85
+weight 0.848911308999253
+]
+edge [
+source 71
+target 86
+weight 0.7995823758746617
+]
+edge [
+source 72
+target 73
+weight 0.8065101145134079
+]
+edge [
+source 72
+target 74
+weight 0.8435971217494139
+]
+edge [
+source 72
+target 75
+weight 0.862079260499409
+]
+edge [
+source 72
+target 76
+weight 0.8531024210679912
+]
+edge [
+source 72
+target 77
+weight 0.8771777894706104
+]
+edge [
+source 72
+target 78
+weight 0.7759928713684444
+]
+edge [
+source 72
+target 79
+weight 0.8276274068883829
+]
+edge [
+source 72
+target 80
+weight 0.839654863670588
+]
+edge [
+source 72
+target 81
+weight 0.9294698712636824
+]
+edge [
+source 72
+target 82
+weight 0.7672575535558664
+]
+edge [
+source 72
+target 83
+weight 0.8398930109446696
+]
+edge [
+source 72
+target 84
+weight 0.8168397650807595
+]
+edge [
+source 72
+target 85
+weight 0.8209436525341723
+]
+edge [
+source 72
+target 86
+weight 0.8047708390702978
+]
+edge [
+source 73
+target 74
+weight 0.7978376051721658
+]
+edge [
+source 73
+target 75
+weight 0.7818204508964028
+]
+edge [
+source 73
+target 76
+weight 0.7760853710751175
+]
+edge [
+source 73
+target 77
+weight 0.9448487925446715
+]
+edge [
+source 73
+target 78
+weight 0.8506666482470913
+]
+edge [
+source 73
+target 79
+weight 0.9538641093566125
+]
+edge [
+source 73
+target 80
+weight 0.8078594113783074
+]
+edge [
+source 73
+target 81
+weight 0.9744131742126163
+]
+edge [
+source 73
+target 82
+weight 0.7884918079736872
+]
+edge [
+source 73
+target 83
+weight 0.8162666740574642
+]
+edge [
+source 73
+target 84
+weight 0.7717594223432536
+]
+edge [
+source 73
+target 85
+weight 0.8279567891212565
+]
+edge [
+source 73
+target 86
+weight 0.966421157348765
+]
+edge [
+source 73
+target 89
+weight 0.9942147337758104
+]
+edge [
+source 74
+target 75
+weight 0.8286938250674373
+]
+edge [
+source 74
+target 76
+weight 0.7951639639460941
+]
+edge [
+source 74
+target 77
+weight 0.8137044727163079
+]
+edge [
+source 74
+target 78
+weight 0.7575573293716926
+]
+edge [
+source 74
+target 79
+weight 0.8100906293561141
+]
+edge [
+source 74
+target 80
+weight 0.8861601944120904
+]
+edge [
+source 74
+target 81
+weight 0.9227801729479652
+]
+edge [
+source 74
+target 82
+weight 0.8369754008564804
+]
+edge [
+source 74
+target 83
+weight 0.7515157237065899
+]
+edge [
+source 74
+target 84
+weight 0.7552575828695125
+]
+edge [
+source 74
+target 85
+weight 0.8256424788090863
+]
+edge [
+source 74
+target 86
+weight 0.7827436205779542
+]
+edge [
+source 75
+target 76
+weight 0.9137349634746366
+]
+edge [
+source 75
+target 77
+weight 0.9410048701613543
+]
+edge [
+source 75
+target 78
+weight 0.8490034774395318
+]
+edge [
+source 75
+target 79
+weight 0.8889198073497347
+]
+edge [
+source 75
+target 80
+weight 0.9277259954830668
+]
+edge [
+source 75
+target 81
+weight 0.9726601002552706
+]
+edge [
+source 75
+target 82
+weight 0.7890778094036375
+]
+edge [
+source 75
+target 83
+weight 0.9560208078034499
+]
+edge [
+source 75
+target 84
+weight 0.877511590192743
+]
+edge [
+source 75
+target 85
+weight 0.8012203648270553
+]
+edge [
+source 75
+target 86
+weight 0.9583666739842477
+]
+edge [
+source 76
+target 77
+weight 0.8374061777867112
+]
+edge [
+source 76
+target 78
+weight 0.8287846608243743
+]
+edge [
+source 76
+target 79
+weight 0.9400587625787937
+]
+edge [
+source 76
+target 80
+weight 0.8753725730764591
+]
+edge [
+source 76
+target 81
+weight 0.9484587433809127
+]
+edge [
+source 76
+target 82
+weight 0.7913382343505967
+]
+edge [
+source 76
+target 83
+weight 0.7886949833210117
+]
+edge [
+source 76
+target 84
+weight 0.8831604316612827
+]
+edge [
+source 76
+target 85
+weight 0.7888545084111778
+]
+edge [
+source 76
+target 86
+weight 0.8299752941651215
+]
+edge [
+source 77
+target 78
+weight 0.8054221413725409
+]
+edge [
+source 77
+target 79
+weight 0.8337745819984668
+]
+edge [
+source 77
+target 80
+weight 0.8262648450213257
+]
+edge [
+source 77
+target 81
+weight 0.9461564546727536
+]
+edge [
+source 77
+target 82
+weight 0.8663524751211056
+]
+edge [
+source 77
+target 83
+weight 0.882367429964526
+]
+edge [
+source 77
+target 84
+weight 0.7860739203345956
+]
+edge [
+source 77
+target 85
+weight 0.8648864932882471
+]
+edge [
+source 77
+target 86
+weight 0.8691776126127063
+]
+edge [
+source 78
+target 79
+weight 0.8189627085196116
+]
+edge [
+source 78
+target 80
+weight 0.8044896279063958
+]
+edge [
+source 78
+target 81
+weight 0.901802338780639
+]
+edge [
+source 78
+target 82
+weight 0.8128291055477153
+]
+edge [
+source 78
+target 83
+weight 0.8921680257479703
+]
+edge [
+source 78
+target 84
+weight 0.7757029482203297
+]
+edge [
+source 78
+target 85
+weight 0.7964651987767373
+]
+edge [
+source 78
+target 86
+weight 0.8189533946262834
+]
+edge [
+source 79
+target 80
+weight 0.9386380584507231
+]
+edge [
+source 79
+target 81
+weight 0.9553988423572487
+]
+edge [
+source 79
+target 82
+weight 0.8530578940492008
+]
+edge [
+source 79
+target 83
+weight 0.91009668121732
+]
+edge [
+source 79
+target 84
+weight 0.7686210674351434
+]
+edge [
+source 79
+target 85
+weight 0.7962778732862272
+]
+edge [
+source 79
+target 86
+weight 0.9400481139083112
+]
+edge [
+source 79
+target 91
+weight 0.9528326820494369
+]
+edge [
+source 80
+target 81
+weight 0.9714910875596804
+]
+edge [
+source 80
+target 82
+weight 0.8007954183585739
+]
+edge [
+source 80
+target 83
+weight 0.8849170167675663
+]
+edge [
+source 80
+target 84
+weight 0.7856731006555657
+]
+edge [
+source 80
+target 85
+weight 0.7902349065919065
+]
+edge [
+source 80
+target 86
+weight 0.8479001417927422
+]
+edge [
+source 81
+target 82
+weight 0.8735754377176026
+]
+edge [
+source 81
+target 83
+weight 0.9861985928673326
+]
+edge [
+source 81
+target 84
+weight 0.8903995550855227
+]
+edge [
+source 81
+target 85
+weight 0.8732269743620524
+]
+edge [
+source 81
+target 86
+weight 0.9760718747791739
+]
+edge [
+source 82
+target 83
+weight 0.7887752588843641
+]
+edge [
+source 82
+target 84
+weight 0.8318785885769024
+]
+edge [
+source 82
+target 85
+weight 0.8270662421781285
+]
+edge [
+source 82
+target 86
+weight 0.8501492842157193
+]
+edge [
+source 82
+target 87
+weight 0.9228156094350227
+]
+edge [
+source 83
+target 84
+weight 0.8511400460292631
+]
+edge [
+source 83
+target 85
+weight 0.8190234283710122
+]
+edge [
+source 83
+target 86
+weight 0.789853732672548
+]
+edge [
+source 84
+target 85
+weight 0.8053941630189482
+]
+edge [
+source 84
+target 86
+weight 0.8566455909865918
+]
+edge [
+source 85
+target 86
+weight 0.8055328933351509
+]
+]
