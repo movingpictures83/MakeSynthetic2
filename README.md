@@ -2,7 +2,8 @@
 # Language: Python
 # Input: TXT (key-value pairs)
 # Output: GML (synthetic network with these properties) 
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin to build a synthetic network.  This was constructed
 as a 'sequel' to the MakeSynthetic plugin, accounting for driver nodes,
